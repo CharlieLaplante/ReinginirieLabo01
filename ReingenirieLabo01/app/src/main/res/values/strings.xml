@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReingenirieLabo01</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Rouge">Rouge</string>
+    <string name="Pas_Rouge">Pas Rouge</string>
+    <string name="Vert">Vert</string>
+    <string name="Pas_Vert">Pas Vert</string>
+    <string name="Bleu">Bleu</string>
+    <string name="Pas_Bleu">Pas Bleu</string>
+    <string name="title_activity_random_image">RandomImage</string>
+</resources>
