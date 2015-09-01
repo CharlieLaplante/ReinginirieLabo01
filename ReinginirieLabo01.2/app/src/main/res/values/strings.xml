@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ReinginirieLabo01.2</string>
+
+    <string name="Quote"></string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Momo">
+        <item>Tequila Heineken Pas le temps de niaiser</item>
+        <item>L\'Evenement est incroyable !</item>
+        <item>Ben moi la, moé la, je veux rajouter au dancefloor de l\'evenement avec des grouillades là</item>
+        <item>CopaCabana c\'est la place la essaie pas de niaiser la</item>
+        <item>Filme mes pieds, mes clarks ! </item>
+    </string-array>
+
+    <string-array name="Kevin">
+        <item>Mange ma saucisse</item>
+        <item>Avoye Kevin esti continue comme ca ! C\'est comme ca qu\'on aime ca</item>
+        <item>La premiere fois que je l\'ai rencontré, j\'avais envi de le frencher</item>
+        <item>Bonne fete el gros, esti je suis ben content d\'etre venu a ton party esti yeeeess</item>
+        <item>Think big calisse</item>
+    </string-array>
+
+    <string-array name="Jonathan">
+        <item>Heille mon père... Heille mon père.. Nonon mon père..</item>
+        <item>Mon père est le gars le plus riche au Québec et toi, t\'es pauvre!</item>
+        <item>Mon père te fait chier en tabarnak</item>
+        <item>Mon père est riche en tabarnak</item>
+        <item>Mon père est plus riche que ton père</item>
+    </string-array>
+</resources>
