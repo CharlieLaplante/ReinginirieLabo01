@@ -35,8 +35,10 @@ public class QuoteAndShizzle extends AppCompatActivity {
             public void onClick(View arg0) {
 
                 Quote = RandomQuote(bouton);
-                Toast.makeText(QuoteAndShizzle.this,
-                        Quote, Toast.LENGTH_SHORT).show();
+                for (int i=0; i < 2; i++) {
+                    Toast.makeText(QuoteAndShizzle.this,
+                            Quote, Toast.LENGTH_LONG).show();
+                }
 
             }
         });
@@ -45,9 +47,10 @@ public class QuoteAndShizzle extends AppCompatActivity {
             public void onClick(View arg0) {
 
                 Quote = RandomQuote(bouton1);
-                Toast.makeText(QuoteAndShizzle.this,
-                        Quote, Toast.LENGTH_SHORT).show();
-
+                for (int i=0; i < 2; i++)
+                {
+                    Toast.makeText(QuoteAndShizzle.this, Quote, Toast.LENGTH_LONG).show();
+                }
             }
         });
         bouton2.setOnClickListener(new OnClickListener() {
@@ -55,8 +58,10 @@ public class QuoteAndShizzle extends AppCompatActivity {
             public void onClick(View arg0) {
 
                 Quote = RandomQuote(bouton2);
-                Toast.makeText(QuoteAndShizzle.this,
-                        Quote, Toast.LENGTH_SHORT).show();
+                for (int i = 0; i < 2; i++) {
+                    Toast.makeText(QuoteAndShizzle.this,
+                            Quote, Toast.LENGTH_LONG).show();
+                }
 
             }
         });
